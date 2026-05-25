@@ -25,5 +25,5 @@ pip install -e .
 
 Otherwise if outside in parent directory, run:
 
-pip install AutomMD
+pip install AutoMD
 
